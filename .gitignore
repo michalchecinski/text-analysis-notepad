@@ -1,0 +1,17 @@
+*/[Oo]bj/
+*/[Bb]in/
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.userprefs
+*.sln.ide
+.vs/
+
+#ReSharper
+*.resharper
+*\_ReSharper*
+*_ReSharper*
+
+#config file
+App.config
